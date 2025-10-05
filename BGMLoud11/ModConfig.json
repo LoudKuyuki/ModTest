@@ -1,0 +1,106 @@
+{
+  "ModId": "BGMLoud11",
+  "ModName": "BGMLoud11",
+  "ModAuthor": "Loudkuyuki",
+  "ModVersion": "0.3",
+  "ModDescription": "[TEMPORAL TEST]\r\n- Spanish text JPN--\u003EESP\r\n- Spanish dub (JPN)",
+  "ModDll": "",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "BGMLoud11.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "DSTS.RyoFramework": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "DSTS.RyoFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "DSTS.RyoFramework.ReleaseMetadata.json"
+        },
+        "DSTS.ModLoader": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "DSTS.ModLoader",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "DSTS.ModLoader.ReleaseMetadata.json"
+        },
+        "MVGL.FileLoader.Reloaded": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "MVGL.FileLoader",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "MVGL.FileLoader.Reloaded.ReleaseMetadata.json"
+        },
+        "Ryo.Reloaded": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "Ryo",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Ryo.Reloaded.ReleaseMetadata.json"
+        },
+        "Reloaded.Memory.SigScan.ReloadedII": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Memory.SigScan",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        },
+        "SharedScans.Reloaded": {
+          "Config": {
+            "UserName": "RyoTune",
+            "RepositoryName": "SharedScans",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "SharedScans.Reloaded.ReleaseMetadata.json"
+        }
+      }
+    },
+    "GitHubRelease": {
+      "UserName": "LoudKuyuki",
+      "RepositoryName": "ModTest",
+      "UseReleaseTag": true,
+      "AssetFileName": "ModTestLoud.zip"
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "DSTS.RyoFramework",
+    "DSTS.ModLoader",
+    "MVGL.FileLoader.Reloaded"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "digimon story time stranger.exe"
+  ],
+  "ProjectUrl": "",
+  "CreatorUrl": "https://loudkuyuki.carrd.co/",
+  "IsSeparator": false
+}
