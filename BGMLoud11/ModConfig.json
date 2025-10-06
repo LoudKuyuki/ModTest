@@ -1,6 +1,6 @@
 {
   "ModId": "BGMLoud11",
-  "ModName": "BGMLoud11",
+  "ModName": "[ALPHA] Loud - texto y doblaje",
   "ModAuthor": "Loudkuyuki",
   "ModVersion": "0.3",
   "ModDescription": "[TEMPORAL TEST]\r\n- Spanish text JPN--\u003EESP\r\n- Spanish dub (JPN)",
@@ -87,7 +87,7 @@
       "UserName": "LoudKuyuki",
       "RepositoryName": "ModTest",
       "UseReleaseTag": true,
-      "AssetFileName": "ModTestLoud.zip"
+      "AssetFileName": "*ModAlpha.zip"
     }
   },
   "IsUniversalMod": false,
