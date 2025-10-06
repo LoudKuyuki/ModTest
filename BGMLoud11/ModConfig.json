@@ -1,9 +1,9 @@
 {
   "ModId": "BGMLoud11",
-  "ModName": "[ALPHA] Loud - texto y doblaje",
+  "ModName": "BGMLoud11",
   "ModAuthor": "Loudkuyuki",
-  "ModVersion": "0.3.0",
-  "ModDescription": "[TEMPORAL TEST]\r\n- Spanish text JPN--\u003EESP\r\n- Spanish dub (JPN)",
+  "ModVersion": "0.3.5",
+  "ModDescription": "",
   "ModDll": "",
   "ModIcon": "Preview.png",
   "ModR2RManagedDll32": "",
