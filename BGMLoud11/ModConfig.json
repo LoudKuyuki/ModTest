@@ -2,7 +2,7 @@
   "ModId": "BGMLoud11",
   "ModName": "BGMLoud11",
   "ModAuthor": "Loudkuyuki",
-  "ModVersion": "0.3.5",
+  "ModVersion": "0.3.8",
   "ModDescription": "",
   "ModDll": "",
   "ModIcon": "Preview.png",
@@ -87,7 +87,7 @@
       "UserName": "LoudKuyuki",
       "RepositoryName": "ModTest",
       "UseReleaseTag": true,
-      "AssetFileName": "*ModAlpha.zip"
+      "AssetFileName": "*ModAlpha.7z"
     }
   },
   "IsUniversalMod": false,
